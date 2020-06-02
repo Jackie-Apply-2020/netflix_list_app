@@ -2,10 +2,10 @@
 
 # Instruction
   1. clone the repo:
-  ```git clone https://github.com/Jackie-Apply-2020/netflix_list_app.git```
+  ```git clone https://github.com/Jackie-Apply-2020/netflix_list_app```
   
   2. enter the folder (direct to the folder taht you want to download to):
-  ```cd ./netflix-app-my-lists```
+  ```cd ./netflix_list_app```
   
   3. run following code (make sure you've download the [node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) already):
   ``` npm install ```
