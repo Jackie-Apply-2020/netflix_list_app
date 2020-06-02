@@ -5,9 +5,100 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-bottom: 5rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  background-color: #000000;
+  color: #ffffff;
 }
+
+.bar {
+  height: auto;
+}
+
+.bar img {
+  max-height: 4rem;
+}
+
+.list-header {
+  height: 3rem;
+  margin: 1rem 5rem 0;
+  font-family: 'Netflix Sans', Helvetica, Arial, sans-serif;
+}
+
+.mylist-header h2 {
+  margin: 0;
+  font-weight: 500;
+}
+
+.myList {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  margin: 0 3rem;
+}
+
+.figure-mylist {
+  display: table;
+  width: auto;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+.figure-mylist img {
+  width: 12rem;
+  height: 16rem;
+}
+
+.figure-mylist figcaption {
+  display: table-caption;
+  caption-side: top;
+  padding: .5em;
+}
+
+.btn {
+  opacity: 0;
+  visibility: hidden;
+  cursor: pointer;
+  border: 1px solid #fff;
+  width: 100%;
+  height: 25px;
+  font-size: 14px;
+  background-color: #fff;
+  color: #000;
+  position: relative;
+  top: -34px;
+  left: 0px;
+  font-weight: 700;
+  transition: visibility 0.5s, opacity 0.5s linear;
+}
+
+.figure-mylist:hover button {
+  visibility: visible;
+  opacity: 0.8;
+}
+
+.bottom-bar a {
+  margin: 10px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.bottom-header {
+  margin: 0 1rem 0 5rem;
+  display: inline-block;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.bottom-bar {
+  background-color: #ffffff;
+  min-height: 1rem;
+  padding: 1rem;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
