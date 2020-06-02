@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netflix-app-lists/static/css/main.06dba139.chunk.css",
+    "main.js": "/netflix-app-lists/static/js/main.f8b8ac54.chunk.js",
+    "main.js.map": "/netflix-app-lists/static/js/main.f8b8ac54.chunk.js.map",
+    "runtime-main.js": "/netflix-app-lists/static/js/runtime-main.37ee97ac.js",
+    "runtime-main.js.map": "/netflix-app-lists/static/js/runtime-main.37ee97ac.js.map",
+    "static/js/2.72240886.chunk.js": "/netflix-app-lists/static/js/2.72240886.chunk.js",
+    "static/js/2.72240886.chunk.js.map": "/netflix-app-lists/static/js/2.72240886.chunk.js.map",
+    "index.html": "/netflix-app-lists/index.html",
+    "precache-manifest.1173e9f56a98202f50f8d150cf97bac7.js": "/netflix-app-lists/precache-manifest.1173e9f56a98202f50f8d150cf97bac7.js",
+    "service-worker.js": "/netflix-app-lists/service-worker.js",
+    "static/css/main.06dba139.chunk.css.map": "/netflix-app-lists/static/css/main.06dba139.chunk.css.map",
+    "static/js/2.72240886.chunk.js.LICENSE.txt": "/netflix-app-lists/static/js/2.72240886.chunk.js.LICENSE.txt",
+    "static/media/Netflix-Logo.png": "/netflix-app-lists/static/media/Netflix-Logo.f0fb0ac0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ee97ac.js",
+    "static/js/2.72240886.chunk.js",
+    "static/css/main.06dba139.chunk.css",
+    "static/js/main.f8b8ac54.chunk.js"
+  ]
+}
