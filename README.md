@@ -2,7 +2,7 @@
 
 # Instruction
   1. clone the repo:
-  ```git clone https://github.com/Jackie-Apply-2020/netflix-app-my-lists```
+  ```git clone https://github.com/Jackie-Apply-2020/netflix_list_app.git```
   
   2. enter the folder (direct to the folder taht you want to download to):
   ```cd ./netflix-app-my-lists```
