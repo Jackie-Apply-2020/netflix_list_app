@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d9456c24b353cf575c542a71ae99094",
+    "revision": "1aaeb8c947836dfc94647d15a7e7be48",
     "url": "/netflix-app-lists/index.html"
   },
   {
-    "revision": "fa7c6a82fe6f322bb027",
+    "revision": "3032940f0830716092f4",
     "url": "/netflix-app-lists/static/css/main.06dba139.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netflix-app-lists/static/js/2.72240886.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa7c6a82fe6f322bb027",
-    "url": "/netflix-app-lists/static/js/main.915b821f.chunk.js"
+    "revision": "3032940f0830716092f4",
+    "url": "/netflix-app-lists/static/js/main.51c74dd3.chunk.js"
   },
   {
     "revision": "ef32d29b4f9f02969460",
