@@ -17,5 +17,5 @@ export default function List (props) {
         );
       })}
     </div>)
-    : (props.list.map(item => <a key={item.id}>{item.title}</a>))
+    : (props.list.map(item => <a key={item.id} href="/#">{item.title}</a>))
 };
